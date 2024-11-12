@@ -1,0 +1,18 @@
+var homePage = [
+  {type: "t", cod: 1, name:"Sobre la empresa" },
+  {type: "t", cod: 3, name:"Proyectos y Construcción"},
+  {type: "e", cod: 2, name:"Rubros"},
+  {type: "e", cod: 4, name:"Servicios de Proyectos y Construcción"},
+  {type: "g", cod: 5, name:"Galería de Imágenes"},
+  {type: "t", cod: 7, name:"Estudio de Impacto Ambiental"},
+  {type: "t", cod: 8, name:"Porqué hacer estudios de impacto ambiental" },
+  {type: "t", cod: 9, name:"Qué es techo propio" },
+  {type: "t", cod: 10, name:"Qué hacemos (Techo propio)" },
+  {type: "g", cod: 11, name:"Galería Techo Propio"},  
+  {type: "e", cod: 13, name:"Proyectos Inmobiliarios" },  
+  {type: "g", cod: 17, name:"Fotos Inmobiliaria" },
+  {type: "t", cod: 12, name:"Inmobiliaria" },
+  {type: "t", cod: 14, name:"Misión"},
+  {type: "t", cod: 15, name:"Visión" },
+  {type: "t", cod: 16, name:"Objetivos" },
+]
