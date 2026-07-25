@@ -1,9 +1,7 @@
 import { FooterBar, MenuBar } from "@/components/components";
 
-const cartaImages = [
-  ...Array.from({ length: 24 }, (_, index) => `menu_page_${index + 1}`),
-  ...Array.from({ length: 8 }, (_, index) => `cocteles_page_${index + 1}`),
-];
+// Generadas con: bun run scripts/carta-to-avif.ts
+const cartaImages = Array.from({ length: 12 }, (_, index) => `carta_page_${index + 1}`);
 
 export default function Carta() {
   return <>
